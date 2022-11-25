@@ -1,3 +1,5 @@
+Migrated to https://gitlab.com/orowith2os/My-assets-and-whatnot
+
 # My-assets-and-whatnot
 This repo contains my commissions, self-made works, and other works, licensed under the CC BY-SA (unless otherwise stated).
 
